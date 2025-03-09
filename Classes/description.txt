@@ -1,0 +1,77 @@
+Goatta catch 'em all!
+
+Hello there! Welcome to the world of Goatymon! My name is Goak! People call me the Goatymon Prof! This world is inhabited by creatures called Goatymons! For some people, Goatymons are pets. Other use them for fights. Your very own Pokémon legend is about to unfold! A world of dreams and adventures with Goatymon awaits! Let's go!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Trainer Goat: You own 6 Goatyballs able to capture stuff.
+- Goatymon World: Goatymons will randomly spawn on the map.
+
+[b]KEYBOARD CONTROLS[/b]
+[h1]Trainer Goat[/h1]
+- [b][R]:[/b] Throw the Goatyball in front of you.
+- [b][R]:[/b] Cancel the last throw.
+- [b][1]:[/b] Call back the object/creature in its Goatyball.
+- [b][Ctrl]:[/b] Use the next Goatyball.
+- [b][E] + [RightClick]:[/b] Hold without moving to show/hide your Goatyballs.
+- [b][RightClick] + [R]:[/b] Hold to make the Goatymon in the current Goatyball fight.
+
+[b]GAMEPAD CONTROLS[/b]
+[h1]Trainer Goat[/h1]
+- [b][Y]:[/b] Throw the Goatyball in front of you.
+- [b][Y]:[/b] Cancel the last throw.
+- [b][LB]:[/b] Call back the object/creature in its Goatyball.
+- [b][DPadDown]:[/b] Use the next Goatyball.
+- [b][X] + [LT]:[/b] Hold without moving to show/hide your Goatyballs.
+- [b][LT] + [Y]:[/b] Hold to make the Goatymon in the current Goatyball fight.
+
+[b]CONSOLE COMMANDS[/b]
+- RenameGoatymon newName => Rename the last Goatymon that entered any Goatyball.
+- ToggleGoatymonSpeech => Enable/disable Goatymon battle voice.
+- ToggleGoatymonPvP => Enable/disable Player VS. Player mode (PvP).
+
+[b]CHARACTERISTICS[/b]
+[h1]Trainer Goat[/h1]
+- If an empty Goatyball is thrown and hit any object that can be added to an inventory, this object will be captured.
+- If a full Goatyball is thrown, the object it contains will be dropped when the ball hit anything.
+- All the Goatyballs controls only work when they are visible (not hidden).
+- If you respawn all the items you captured will be called back to their Goatyball.
+- Each crewmember in the Payday DLC is considered as a separate player.
+[h1]Goatymon World[/h1]
+- If you own no Goatymon, then you can capture any Goatymon on the map.
+- To capture more Goatymons, you need to fight them first, to lower their health.
+- You can't capture a dead (0 health) Goatymon.
+- Captured Goatymons will be saved and will follow you on any map (no this cannot be extended to any item).
+- If you release a Goatymon from its ball, it will follow you (including swim).
+- If you use the Goatyball of one of your Goatymons on another item, this Goatymon will no longer be yours.
+- If you release a Goatymon for battle, it will attack the closest wild Goatymon.
+- If one of your Goatymon is fighting and you release another one for battle, it will replace the old one.
+- If your call back your Goatymon during battle or if one of the fighter die, the battle will end.
+- During battle, Goatymons will use turn by turn one of the 4 available attacks at random.
+- Goatymon attacks of each type deals the same damages for any Goatymon.
+- Each attack type have its own chances to hit/miss.
+- When no Goatymon in your team is fighting, the health of your living Goatymons will regen.
+- When a wild Goatymon is not fighting and not dead, its health will regen.
+- If you respawn or change map, every Goatymon in your team will be healed (including dead ones).
+[h1]PvP mode[/h1]
+- The life of your Goatymons no longer regen.
+- Goatymons no longer follow their trainers.
+- Goatymons will attack the Goatymons of other players instead of wild Goatymons.
+
+[b]EASTER EGGS[/b]
+- [spoiler]Bigger Goatymons have more health, smaller Goatymons attack faster.[/spoiler]
+- [spoiler]Combine this mod with Ghost Goat and you can take the form of any animal in the game ^^[/spoiler]
+- [spoiler]There is a secret console command that will turn the last creature that entered a Goatyball into a Goatymon. Anyway Goatymons made using that command won't be saved, so you can't transport them to other maps.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- When you capture a Goatymon the game can randomly crash. If you are lucky the Goatymon should be saved anyway. (can't fix)
+- The Alien model is glitchy. (can't fix)
+- Some Goatymons (Horse/Donkey/Pig) will fly really far away if you knock them. (can't fix)
+
+[b]DEV NOTES[/b]
+[quote=About this mod]It'as aliiiive! I think I will stop trying to find which mod took the longest time to make, but this one took a bloody long time for sure >_< Anyway the Payday update added a very long delay in the middle of the development of this mod...
+Anyway here we go, the [strike]Pokémon[/strike] Goatymon mod is now real :D First things first: the Goatyballs. So those are made by combining a few spherical and cylindric objects in the game, and some appropriate textures ^^ Their ability to "contain" stuff is based on a hidden inventory that will store the items until you want them back.
+Then came the Goatymons ^^ This is the part that took most of the time to set up, because it includes a new NPC type (one that can take the form of every single animal in the game) and a new AI. That AI is probably the most complex I have done so far as it combines everything the other AIs I made can do: random walk, follow goat or other NPC, turn by turn battle mode and several attacks :)
+I could have added a lot more stuff like more attacks, leveling, more battle modes, etc... But as I wanted to publish this mod as soon as possible (and not in 2 or 3 years) I decided to stop there :p
+[/quote]
